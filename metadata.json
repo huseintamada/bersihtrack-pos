@@ -1,0 +1,6 @@
+{
+  "name": "BersihTrack POS",
+  "description": "Aplikasi kasir (POS) laundry modern anti-komplain dengan pelacakan item pakaian, bukti foto kondisi awal, lokasi rak, verifikasi serah terima, dan cek status pelanggan.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
